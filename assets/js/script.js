@@ -3,6 +3,7 @@ var submitBtn = document.querySelector("#submit-btn");
 
 var apiKey = "7852fb23097990b017418037b174bb1f";
 
+
 var cityName = document.getElementById("city").value
 
 
